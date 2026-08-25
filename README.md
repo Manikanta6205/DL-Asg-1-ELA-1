@@ -1,12 +1,13 @@
 # DL-Asg-1-ELA-1
 
 DL-ELA-I Under the student test:
-Ela for 30 mins ig
+- Ela for 30 mins ig
 
 https://chatgpt.com/share/6a8db317-1708-83ee-b8d6-c394180bbd47?ogimg=plain
 
 DL-ASG-I Under the student test:
-ASG for 1 hour 💀
+- ASG for 1 hour 💀
+- You will have to type out the answer or ...
 
 ### 1. Biological Vision and Machine Vision
 
